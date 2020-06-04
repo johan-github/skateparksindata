@@ -7,6 +7,7 @@ We are collecting data through [this form](https://forms.gle/bnrpm9Uh3p7dtmtU9) 
 
 ## Homepage
 Have a look at our homepage to see our latest statistics about skateparks of Malmö.
+
 [Skateparks in Data homepage](https://skateparksindata.herokuapp.com/)
 
 
