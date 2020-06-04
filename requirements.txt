@@ -1,0 +1,14 @@
+folium
+geopandas
+matplotlib
+voila
+voila-material
+packaging
+pandas
+bqplot
+ipympl
+ipyvolume
+scipy
+numpy
+seaborn
+
