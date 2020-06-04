@@ -2,6 +2,7 @@ folium
 geopandas
 matplotlib
 voila
+voila-material
 packaging
 pandas
 bqplot
