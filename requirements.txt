@@ -12,3 +12,4 @@ scipy
 numpy
 seaborn
 wordcloud
+ipywidgets
