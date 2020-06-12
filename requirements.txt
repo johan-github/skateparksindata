@@ -13,3 +13,7 @@ numpy
 seaborn
 wordcloud
 ipywidgets
+json
+requests
+Markdown
+emoji
