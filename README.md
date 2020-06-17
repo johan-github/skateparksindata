@@ -1,3 +1,5 @@
+<img src="https://github.com/johan-github/skateparksindata/blob/master/Images/logo_PID.png" width="150" height="150">
+
 # Skateparks In Data
 
 ## Introduction
