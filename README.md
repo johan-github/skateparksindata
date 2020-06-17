@@ -5,6 +5,12 @@ Welcome to our project Skateparks in Data! <br>
 This is a data analytics project showing data vizualisations for skateparks in the city of Malmö, Sweden.
 
 
+## Motivation
+We wanted to see how many people that ride either: Skateboard, kickbike, BMX or inlines/roller blades at different skateparks at different times during the day, how the age-groups differ and so on in Malmö. <br><br>
+Since the city of Malmö is investing in skateboarding and considered a popular skateboarding-town, we hope that our project will be of interest.<br><br>
+We also hope that our project can help you in your project.
+
+
 ## Dataset
 We have collected our own data through [this form](https://forms.gle/bnrpm9Uh3p7dtmtU9) regarding skateparks in the city Malmö (Sweden).
 Labels in the dataset |
@@ -16,12 +22,6 @@ Gender |
 Weather |
 Favorite environment |
 Level
-
-
-## Motivation
-We wanted to see how many people that ride either: Skateboard, kickbike, BMX or inlines/roller blades at different skateparks at different times during the day, how the age-groups differ and so on in Malmö. <br><br>
-Since the city of Malmö is investing in skateboarding and considered a popular skateboarding-town, we hope that our project will be of interest.<br><br>
-We also hope that our project can help you in your project.
 
 
 ## Requirements
@@ -50,19 +50,18 @@ This project requires the following to be installed:
 * [Jupyter](https://jupyter.org/)
 
 
-## Connect with us
-[Facebook](https://www.facebook.com/skateparksindata/)
+## Connect with Skateparks in Data
+* [Facebook](https://www.facebook.com/skateparksindata/)
+* [Instagram](https://www.instagram.com/skateparksindata/)
+* [All links gathered in one place](https://linktr.ee/skateparksindata)
 
-[Instagram](https://www.instagram.com/skateparksindata/)
-
-[All links gathered in one place](https://linktr.ee/skateparksindata)
 
 ## Contributors
-GitHub
+**GitHub**
 * [Helena Barmer](https://github.com/helenabarmer)
 * [Johan Wikström](https://github.com/johan-github)<br>
 
-LinkedIn
+**LinkedIn**
 * [Helena Barmer](https://www.linkedin.com/in/helenabarmer/)
 * [Johan Wikström](https://www.linkedin.com/in/johan-wikstr%C3%B6m-00455711a/)
 
