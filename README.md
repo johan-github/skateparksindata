@@ -12,7 +12,9 @@ We also hope that our project can help you in your project.
 
 
 ## Dataset
-We have collected our own data through [this form](https://forms.gle/bnrpm9Uh3p7dtmtU9) regarding skateparks in the city Malmö (Sweden).
+We have collected our own data through [this form](https://forms.gle/bnrpm9Uh3p7dtmtU9) regarding skateparks in the city Malmö (Sweden).<br>
+Find our dataset (csv) [here](https://github.com/johan-github/skateparksindata/blob/master/Data/skateparks.csv).
+<br>
 Labels in the dataset |
 ------------ |
 Skatepark |
